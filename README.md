@@ -10,10 +10,10 @@ This repository contains the accumulated laboratory activities that were assigne
 | **Section** | CPE21S1 |
 | **Student number** | 2516501 |
 
-## Course Objective
+## 🎯 Course Objective
 The Data Structures and Algorithms (DSA) course aims to equip students with a deep theoretical understanding and practical mastery of fundamental data structures—such as arrays, linked lists, stacks, queues, trees, and graphs alongside essential algorithmic design and analysis techniques. Through hands-on programming, students learn to evaluate time and space complexity using Big-O notation, implement optimal searching and sorting strategies, and select the most efficient data organization methods to solve complex, real-world computational problems.
 
-## Repository Structure
+## 📂 Repository Structure
 ```
 └── Laboratory Activities
     │
