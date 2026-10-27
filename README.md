@@ -19,8 +19,8 @@ The Data Structures and Algorithms (DSA) course aims to equip students with a de
     │
     ├── 
     │   ├── HOA 1.1
-            ├── Laboratory Activity
-            ├── .cpp files
+    │       ├── Laboratory Activity
+    │       ├── .cpp files
     │   ├── HOA 2.1
     │   ├── HOA 3.1
     │   ├── HOA 4.1
