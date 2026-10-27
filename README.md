@@ -36,3 +36,11 @@ The Data Structures and Algorithms (DSA) course aims to equip students with a de
         └── HOA 14.1
 ```
 
+## 🎯 Key Course Learnings & Takeaways
+
+Completing the CPE010 Data Structures and Algorithm course provided comprehensive practical and theoretical knowledge across several core areas of computer science:
+
+* **Core Data Structures Mastery:** Gained hands-on experience implementing fundamental linear and non-linear data structures from scratch in C++, including dynamic arrays, singly/doubly linked lists, stacks, queues, binary search trees, and graphs[cite: 1].
+* **Algorithmic Analysis & Optimization:** Learned to evaluate algorithm efficiency using Big-O notation, measuring time and space complexities to optimize program runtime and memory usage[cite: 1].
+* **Searching & Sorting Techniques:** Developed and benchmarked classic sorting algorithms (Bubble, Selection, Insertion, Quick, and Merge Sort) alongside searching strategies (Linear vs. Binary Search) to determine the best approach for different dataset characteristics[cite: 1].
+* **Problem-Solving & System Design:** Applied data organization methods to model real-w
